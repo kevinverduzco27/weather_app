@@ -1,7 +1,7 @@
 # weather_app
 ## link
 https://github.com/kevinverduzco27/weather_app
-![unidentified object.](assests/WeatherApp.png)
+![unidentified object.](assets/WeatherApp.png)
 ## What did you learn? 
 ```
 
